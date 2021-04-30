@@ -5,8 +5,7 @@
 
 ### 🎅 developer
 
- - [장아영](https://github.com/Jang-Ahyoung)<br />  <br /> 
-
+ - [장아영](https://github.com/Jang-Ahyoung)
 ### 💙 [Go-Site](https://busan-university-bus.netlify.app/)
 
 ## 🌟  Demo 
